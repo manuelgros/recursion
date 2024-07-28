@@ -1,2 +1,2 @@
-# recursion
-Recursion exercises in Ruby
+# Recursion
+Recursion exercises in Ruby for TOP
