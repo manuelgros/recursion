@@ -1,14 +1,4 @@
 # Merge Sort algorithm
-# Pseudo Code:
-#
-# If only one number
-#   Quit
-# Else
-#   Sort left half of numbers
-#   Sort right half of numbers
-#   Merge sorted halves
-
-require 'pry-byebug'
 
 def merge_sort(arr)
   return arr if arr.length == 1
